@@ -1,7 +1,7 @@
 from get_random_dict import Get_Dict_сoeff as DICT   
-from get_polinomial_1 import Get_polynomial as POLYN
-from polinomial_dict import Get_polinomial_dict as POLYNDICT
-from sum_polynomial import Get_Sum_Polinoms as POLYNSUM
+from get_polinomial import Get_polynomial as POLYN
+from get_polinomial_dict import Get_polinomial_dict as POLYNDICT
+from get_sum_polynomial import Get_Sum_Polinoms as POLYNSUM
 
 print()
 coef_polinom_1 = DICT()
